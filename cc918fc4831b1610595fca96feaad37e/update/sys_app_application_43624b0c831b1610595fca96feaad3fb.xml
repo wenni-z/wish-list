@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Create personal wish lists</description>
+        <device_type>browser</device_type>
+        <hint>Create personal wish lists</hint>
+        <name/>
+        <order/>
+        <roles>x_1549519_wishli_w.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>wenni.zhou</sys_created_by>
+        <sys_created_on>2025-01-20 04:12:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>43624b0c831b1610595fca96feaad3fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wish Lish - wenni</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish Lish - wenni" source="x_1549519_wishli_w">cc918fc4831b1610595fca96feaad37e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish Lish - wenni">cc918fc4831b1610595fca96feaad37e</sys_scope>
+        <sys_update_name>sys_app_application_43624b0c831b1610595fca96feaad3fb</sys_update_name>
+        <sys_updated_by>wenni.zhou</sys_updated_by>
+        <sys_updated_on>2025-01-20 04:12:20</sys_updated_on>
+        <title>Wish Lish - wenni</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
